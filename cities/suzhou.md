@@ -8,9 +8,9 @@ organiser:
     email: suzhou@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "iDaily Cafe"
-    description: ", Lakeview Compound, No"
-    url: https://www.google.co.uk/maps/place/Suzhou+Industrial+Park+Xinggang+School,+Park+Huxi,+Wuzhong,+Suzhou,+Jiangsu,+China,+215000/@31.3150067,120.6540503,17z/data=!3m1!4b1!4m2!3m1!1s0x35b3a6e52e5e07d1:0xdac8d92352ac4503
+    pub_name: "The Locke"
+    description: ", iStation, Culture and Arts Station, No"
+    url: https://www.google.com/maps/search/Suzhou+Industrial+Park,+No.+205+Suzhou+Avenue+West,+Suzhou,+Jiangsu+China+215021/@31.3137832,120.6624093,17z/data=!3m1!4b1
     lon: 0
     lat: 0
 hiatus: True
