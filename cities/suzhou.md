@@ -10,7 +10,7 @@ location:
     group: rest-of-world
     pub_name: "The Locke Pub"
     description: " which is in the iStation Culture and Arts Center, Metro exit 2"
-    url: http://www.lockepub.com/
+    url:
     lon: 31.3231983
     lat: 120.7042503
 hiatus: False
