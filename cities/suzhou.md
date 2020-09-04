@@ -10,11 +10,11 @@ organiser:
     email: suzhou@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "The Locke Pub"
-    description: " which is in the iStation Culture and Arts Center, Metro exit 2."
-    url: https://www.tripadvisor.com/Restaurant_Review-g297442-d4838923-Reviews-Locke_pub-Suzhou_Jiangsu.html
-    lat: 31.3231983
-    lon: 120.7042503
+    pub_name: "九度.Nine Degree"
+    description: " which is in the ZhaoJia Xiang Neighbourhood Center,  just south of Zhongnan Jie Metro Station"
+    url: https://cn.bing.com/maps?osid=8e2a1019-9974-40e1-8e0f-a3a93012164b&cp=31.314587~120.753968&lvl=17&v=2&sV=2&form=S00027
+    lat: 31.314299
+    lon: 120.75587
 hiatus: False
 hiatus_months:
     - 2020-02
@@ -24,5 +24,5 @@ hiatus_months:
     - 2018-07
     - 2019-12
     - 2020-02
-start_time: 7:30pm in the evening
+start_time: 7:00pm in the evening
 ---
