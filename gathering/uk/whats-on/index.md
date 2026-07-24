@@ -17,7 +17,7 @@ The timings below are provisional and subject to change.
 
 **Friday**
 
-- [Bletchley Park visit (optional)]({{site.url/gathering/uk/whats-on/programme/#bletchley}})
+- [Bletchley Park visit (optional)]({{site.url}}/gathering/uk/whats-on/programme/#bletchley)
 - Check-in to accommodation from 14:00
 - 18:30-19:30 Dinner
 - There are no scheduled activities on Friday evening, but the bar will be open and there will be lots of people around to do fun maths with.
