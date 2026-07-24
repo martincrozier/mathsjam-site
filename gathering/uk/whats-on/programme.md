@@ -60,3 +60,10 @@ Tables are run by MathsJam attendees. Full information on how to submit a table 
 - you'll get a one-minute talk slot during the day in a special lightning session to explain/advertise your activity.
 
 
+<h2 id="bletchley">Bletchley Park Trip</h2>
+
+Attention, top-secret codebreakers! You didn't hear this from me, but a few MathsJam early-arrivers will be taking the opportunity to visit the home of codebreaking in World War II, [Bletchley Park](https://www.bletchleypark.org.uk/) (which is near to Milton Keynes).
+
+If you'd like to join an informal pre-MathsJam Friday meetup, break your cover and let Tom know (email [tom@tkbriggs.co.uk](mailto:tom@tkbriggs.co.uk) or contact [@TeaKayB@Mathstodon.xyz on Mastodon](https://mathstodon.xyz/@TeaKayB) / [@TeaKayB.mathsy.space on BlueSky](https://bsky.app/profile/teakayb.mathsy.space)). You can also find Tom in the MathsJam Gathering Signal chat, which you should get a link to join on signing up for MathsJam.
+
+Note that entry to Bletchley Park is separately ticketed, and you'll need to book your own tickets to join us - see [bletchleypark.org.uk](https://bletchleypark.org.uk) for prices, opening hours & other site info.

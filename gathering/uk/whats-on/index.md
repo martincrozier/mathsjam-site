@@ -17,7 +17,8 @@ The timings below are provisional and subject to change.
 
 **Friday**
 
-- Check-in from 14:00
+- [Bletchley Park visit (optional)]({{site.url/gathering/uk/whats-on/programme/#bletchley}})
+- Check-in to accommodation from 14:00
 - 18:30-19:30 Dinner
 - There are no scheduled activities on Friday evening, but the bar will be open and there will be lots of people around to do fun maths with.
 
@@ -27,7 +28,7 @@ The timings below are provisional and subject to change.
 - 12:15-13:15 Lunch
 - 13:30-18:00 Talk sessions
 - 18:15-19:30 Dinner
-- 20:00-21:00 and onwards [Saturday night tables]({{site.url}}/gathering/uk/whats-on/#tables)
+- 20:00-21:00 and onwards [Saturday night tables]({{site.url}}/gathering/uk/whats-on/programme/#tables)
 - 21:00 onwards [MathsJam Jam]({{site.url}}/gathering/uk/whats-on/activities/#jamjam)
 
 **Sunday**
