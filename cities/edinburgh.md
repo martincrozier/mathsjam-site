@@ -24,8 +24,10 @@ hiatus_months:
     - 2023-08
     - 2023-12
     - 2025-12
+    - 2026-08
 changed_dates:
     - 2020-08-19
     - 2024-12-14
+extra_text: "There will be no Edinburgh MathsJam in August, but you're welcome to visit other Scottish Jams for the month!" 
 ---
 
