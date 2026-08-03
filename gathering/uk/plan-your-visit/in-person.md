@@ -79,4 +79,4 @@ In the room where we hold our main sessions, an induction loop system is availab
 
 Assistance dogs are welcome at the venue, and there are designated car parking spaces within the main car park for Blue Badge holders.
 
-Although MathsJam is an event for over 18s only, we want to be inclusive of those with infants/babes-in-arms who might not be able to leave their tiny human for a whole weekend! Please contact us [mailto:bookings@mathsjam.com](bookings@mathsjam.com) and we will work with you to make appropriate provision for you to attend.
+Although MathsJam is an event for over 18s only, we want to be inclusive of those with infants/babes-in-arms who might not be able to leave their tiny human for a whole weekend! Please contact us by emailing [bookings@mathsjam.com](mailto:bookings@mathsjam.com) and we will work with you to make appropriate provision for you to attend.
