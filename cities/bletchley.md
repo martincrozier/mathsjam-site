@@ -9,11 +9,11 @@ organiser:
     email: bletchley@mathsjam.com
 location:
     group: uk-ireland
-    pub_name: Moxy Milton Keynes
-    description: ' in Central Milton Keynes, just off The Hub, about 15 minutes walk up the hill from the MK Central Station'
-    url: https://www.marriott.com/en-us/hotels/ltnox-moxy-milton-keynes/dining/
-    lon: -0.7617089
-    lat: 52.0374496
+    pub_name: The Talbot Inn
+    description: ' in Loughton, Milton Keynes, about 20 minutes walk from MK Central station in the opposite direction from the city centre.'
+    url: https://www.emberinns.co.uk/nationalsearch/eastofengland/the-talbot-inn-milton-keynes/
+    lon: -0.7868475
+    lat: 52.0273341
 hiatus: false
 changed_dates:
     - 2024-11-12
