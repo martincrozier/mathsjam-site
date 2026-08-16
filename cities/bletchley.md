@@ -10,7 +10,7 @@ organiser:
 location:
     group: uk-ireland
     pub_name: The Talbot Inn
-    description: ' in Loughton, Milton Keynes, about 20 minutes walk from MK Central station in the opposite direction from the city centre.'
+    description: ' in Loughton, Milton Keynes, about 20 minutes walk from MK Central station in the opposite direction from the city centre'
     url: https://www.emberinns.co.uk/nationalsearch/eastofengland/the-talbot-inn-milton-keynes/
     lon: -0.7868475
     lat: 52.0273341
