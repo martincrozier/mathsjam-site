@@ -9,7 +9,7 @@ The MathsJam UK Gathering ('Big MathsJam') is an annual event for maths enthusia
 
 The 2026 UK Gathering will take place on **14<sup>th</sup> - 15<sup>th</sup> November 2026**, and you can find out more using the links in the menu.
 
-Note that all participants must be 18 or over. Participants may bring an infant/babe-in-arms with prior agreement - email [mailto:bookings@mathsjam.com](bookings@mathsjam.com) for this or any other booking queries.
+Note that all participants must be 18 or over. Participants may bring an infant/babe-in-arms with prior agreement - email [bookings@mathsjam.com](mailto:bookings@mathsjam.com) for this or any other booking queries.
 
 Photos, talk slides and descriptions from previous events are available in [the archive](archive). <a href="https://c5dd5172.sibforms.com/serve/MUIFAFZqfKRBZSCzMNrzq3YjcQnPNy3DbFHLPInzBFpsf-mXZvTWzIx6jKMedQbdYDy7xL5jUAyLx7dA0yCzXwrZgGq0SydXFFqKkhppVRksaOJF400-5u3qAenMO1TTebODlo6JLIqSwlwuVuggjBgSkF7EugjHI5EpkVLQtH9aVppq1fHe5hBH4GO1aWwlVnhA2DqWiqShsEbY">Join our mailing list</a>, or follow <strong>@BigMathsJam</strong> [on Twitter](https://www.twitter.com/bigmathsjam) or [on Mastodon](https://mathstodon.xyz/@bigmathsjam) for details of future events.
 
