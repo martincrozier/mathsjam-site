@@ -10,7 +10,7 @@ While the MathsJam Gathering takes place primarily in-person, there will be an o
 
 The interactive part of the event will take place on a Zoom call. The call will require a passcode to join, which will be emailed to registered attendees. This will allow you to meet with other remote attendees, and chat to them between talks.
 
-We'll have a dedicated team member onsite as our hybrid coordinator to serve as a liaison with remote attendees. They will be present on the Zoom call throughout the event sessions. If you have any problems - including with audio or video on the stream - you can ask them anything you need, or email [mailto:gathering@mathsjam.com](gathering@mathsjam.com).
+We'll have a dedicated team member onsite as our hybrid coordinator to serve as a liaison with remote attendees. They will be present on the Zoom call throughout the event sessions. If you have any problems - including with audio or video on the stream - you can ask them anything you need, or email [gathering@mathsjam.com](mailto:gathering@mathsjam.com).
 
 ## Talks and Activities
 
